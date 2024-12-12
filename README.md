@@ -1,24 +1,11 @@
-# reaction-timer
+A simple Vue projects to learn Vue basics:
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- template
+- data
+- methods
+- conditional rendering (v-if, v-show)
+- mouse methods
+- v-for loops
+- attribute binding
+- custome events
+- lifecycle hooks
